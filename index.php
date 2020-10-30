@@ -1,37 +1,4 @@
-<?php  ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Netflix El Salvador</title>
-	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-	<header class="header">
-		<div class="navbar">
-			<div class="logo">
-				<h2>NETFLIX</h2>
-			</div>
-			<div class="iniciar">
-				<a href="">Iniciar session</a>
-			</div>
-		</div>
-
-		<div class="header-content">
-			<h2>Todo por ver.</h2>
-			<h2>50 % de descuento los </h2>
-			<h2>primeros dos meses.</h2>
-			<h4>Disfruta donde quieras. Cancela cuando quieras.</h4>			
-		</div>
-
-		<div class="header-form">
-			<p>¿Quieres ver Netflix ya? Ingresa tu email para crear una cuenta o reiniciar tu membresía de Netflix.</p>
-			<form action="">
-				<input type="email" class="text" name="email" placeholder="Email"><input type="submit" class="btn" value="PRUEBA NETFLIX CON UN 50% DE DESCUENTO >">
-			</form>			
-		</div>
-	</header>
-</body>
-</html>
+<?php echo "Hola mundo" ?>
+<?php echo "Hola Karen"; ?>
+/**Comentario */
+<?php echo "Cambio 2"; ?>
