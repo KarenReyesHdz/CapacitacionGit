@@ -1,2 +1,2 @@
 # CapacitacionGit
-Repositorio para practicas
+Repositorio utilizando GitHub
